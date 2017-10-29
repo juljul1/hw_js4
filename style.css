@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+p{
+	width: 60%;
+	margin: 10px;
+}
+img{
+	height: 120px;
+	margin: 10px;
+}
+input{
+	margin: 10px;
+	width: 150px;
+}
+span{
+	color: darkblue;
+	font-size: 20px;
+	margin: 10px;
+	display: block;
+}
+#again{
+	display: none;
+}
+.forms {
+	display: flex;
+	flex-flow: row wrap;
+	align-items: flex-start;
+	width: 400px;
+}
+.forms p{
+	width: 100px;
+}
